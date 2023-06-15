@@ -1,2 +1,2 @@
-# ioannina-myy301-gantt-chartt-management-program
+myy301-gantt-chartt-management-program
 gantt chart management app
